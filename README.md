@@ -16,3 +16,7 @@ file-renamer/
 ├─ src/
 │  └─ renamer.py
 └─ README.md
+## Usage
+Run the script with Python:
+```bash
+python src/renamer.py
